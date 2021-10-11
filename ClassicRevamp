@@ -32,7 +32,7 @@ local m_2 = CFrame.new(aaa, bbb, ccc, 1.19248806e-08, 3.87430191e-06, -1, 4.6200
 local m_3 = 270
 local Event = game:GetService("ReplicatedStorage").Events.PlaceStructure
 Event:FireServer(m_1, m_2, m_3)
-local n_1 = "Wood Gate"
+local n_1 = "Wood Wall"
 local n_2 = CFrame.new(aa, bb, cc, 1.19248806e-08, 3.87430191e-06, -1, 4.62005888e-14, 1, -3.87430191e-06, 1, 0, 1.19248806e-08)
 local n_3 = 270
 local Event = game:GetService("ReplicatedStorage").Events.PlaceStructure
@@ -69,7 +69,7 @@ local m_2 = CFrame.new(aaa, bbb, ccc, 1.19248806e-08, 3.87430191e-06, -1, 4.6200
 local m_3 = 270
 local Event = game:GetService("ReplicatedStorage").Events.PlaceStructure
 Event:FireServer(m_1, m_2, m_3)
-local n_1 = "Stone Gate"
+local n_1 = "Stone Wall"
 local n_2 = CFrame.new(aa, bb, cc, 1.19248806e-08, 3.87430191e-06, -1, 4.62005888e-14, 1, -3.87430191e-06, 1, 0, 1.19248806e-08)
 local n_3 = 270
 local Event = game:GetService("ReplicatedStorage").Events.PlaceStructure
